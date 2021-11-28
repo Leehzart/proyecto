@@ -23,13 +23,13 @@ header h1{
 
 header img{
 	
-	width:  800px;
+	width:  100%;
 
 	
 }
 
 main{
-	max-width: 800px;
+	/*max-width: 800px;*/
 	margin: 0 auto;
 	padding: 100px;
 	padding-top: 20px;
